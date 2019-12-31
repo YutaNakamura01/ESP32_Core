@@ -1,0 +1,5 @@
+kicad 5.1.5インストールしたのち、各ライブラリにパスを張る。
+esp32のフットプリントと3dデータはここから
+http://daiwa-c.blog.jp/archives/1065186580.html
+
+
